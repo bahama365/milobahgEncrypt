@@ -1,4 +1,4 @@
-# Docker fiel encryption image
+# Docker image for file encryption
 
 A Docker one-shot container for file encryption with OpenSSL AES-256. Ensure you are in the directory of the chosen file. The who arguments for the container specify the input and outut file names.
 
